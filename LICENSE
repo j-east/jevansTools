@@ -1,0 +1,121 @@
+                    Server Side Public License
+                        VERSION 1, OCTOBER 16, 2018
+
+                    Copyright (c) 2025 <John Evans>
+
+Everyone is permitted to copy and distribute verbatim copies of this
+license document, but changing it is not allowed.
+
+                         TERMS AND CONDITIONS
+
+0. Definitions.
+
+"This License" refers to Server Side Public License Version 1.
+
+"Copyright" also means copyright-like laws that apply to other kinds of
+works, such as semiconductor masks.
+
+"The Program" refers to any copyrightable work licensed under this License.
+
+"You" means the individual or legal entity exercising permissions granted
+by this License and/or using the Program for any purpose.
+
+"Source Code" means the preferred form of a work for making modifications
+to it.
+
+"Executable" means any form of the Program other than Source Code.
+
+"External Deployment" means the use of the Program to provide a service,
+or to operate software or hardware to provide a service, for users other
+than You, including, but not limited to, offering a service the value of
+which entirely or primarily derives from the value of the Program, making
+the functionality of the Program available to users in any manner that is
+substantially the same as offering a service the value of which entirely
+or primarily derives from the value of the Program, or using the Program
+to create a service that is substantially the same as the Program.
+
+1. License Grant.
+
+Subject to the terms and conditions of this License, each Contributor hereby
+grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free,
+irrevocable copyright license to reproduce, prepare Derivative Works of,
+publicly display, publicly perform, sublicense, and distribute the Program
+and such Derivative Works in Source Code or Executable form.
+
+2. Grant of Patent License.
+
+Subject to the terms and conditions of this License, each Contributor hereby
+grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free,
+irrevocable (except as stated in this section) patent license to make, have
+made, use, offer to sell, sell, import, and otherwise transfer the Program,
+where such license applies only to those patent claims licensable by such
+Contributor that are necessarily infringed by their Contribution(s) alone
+or by combination of their Contribution(s) with the Program to which such
+Contribution(s) was submitted. If You institute patent litigation against
+any entity (including a cross-claim or counterclaim in a lawsuit) alleging
+that the Program or a Contribution incorporated within the Program
+constitutes direct or contributory patent infringement, then any patent
+licenses granted to You under this License for that Program shall terminate
+as of the date such litigation is filed.
+
+3. Conditions.
+
+3.1. If You distribute the Program or a modified version of the Program,
+You must make the Source Code for the Program or the modified version of
+the Program available under this License.
+
+3.2. If You make the functionality of the Program or a modified version
+available to third parties as a service (in any manner including without
+limitation by offering a service the value of which entirely or primarily
+derives from the value of the Program, making the functionality of the
+Program available, or using the Program to create a service), You must
+make the Service Source Code available via the same distribution mechanism
+as You make the Program or modified version available under Section 3.1.
+
+"Service Source Code" means the Corresponding Source for the Program or
+the modified version, and the Corresponding Source for all programs that
+you use to make the Program or modified version available as a service,
+including, without limitation, management software, user interfaces,
+application program interfaces, automation software, monitoring software,
+backup software, storage software and hosting software, all such that a
+user could run an instance of the service using the Service Source Code
+you make available.
+
+4. Termination.
+
+The rights granted under this License will terminate automatically if You
+fail to comply with the terms herein and fail to cure such breach within 30
+days of becoming aware of the breach. Provisions which, by their nature,
+must remain in effect beyond the termination of this License shall survive.
+
+5. Disclaimer of Warranty.
+
+Unless required by applicable law or agreed to in writing, Licensor provides
+the Program on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied, including, without limitation, any
+warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or
+FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining
+the appropriateness of using or redistributing the Program and assume any
+risks associated with Your exercise of permissions under this License.
+
+6. Limitation of Liability.
+
+In no event and under no legal theory, whether in tort (including negligence),
+contract, or otherwise, unless required by applicable law (such as deliberate
+and grossly negligent acts) or agreed to in writing, shall any Contributor be
+liable to You for damages, including any direct, indirect, special, incidental,
+or consequential damages of any character arising as a result of this License
+or out of the use or inability to use the Program (including but not limited
+to damages for loss of goodwill, work stoppage, computer failure or
+malfunction, or any and all other commercial damages or losses), even if such
+Contributor has been advised of the possibility of such damages.
+
+7. General.
+
+If any provision of this License is held to be unenforceable, such provision
+shall be reformed only to the extent necessary to make it enforceable. Any
+law or regulation which provides that the language of a contract shall be
+construed against the drafter shall not be used to construe this License
+against a Contributor.
+
+END OF TERMS AND CONDITIONS
