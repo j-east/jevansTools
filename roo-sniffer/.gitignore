@@ -1,0 +1,40 @@
+# Logs and request data (may contain API keys)
+*.log
+roo_requests.log
+
+# Build output
+dist/
+*.js
+*.js.map
+*.d.ts
+*.d.ts.map
+
+# Dependencies
+node_modules/
+
+# Certificate files
+.roo-sniffer-certs/
+*.pem
+*.key
+*.crt
+*.cert
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+tmp/
+temp/

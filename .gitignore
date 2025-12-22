@@ -1,0 +1,21 @@
+# Logs and request data (may contain API keys)
+*.log
+roo_requests.log
+
+# Certificate files
+.roo-sniffer-certs/
+*.pem
+*.key
+*.crt
+*.cert
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
