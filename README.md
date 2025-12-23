@@ -17,6 +17,28 @@ A TypeScript-based HTTP/HTTPS proxy for monitoring and logging API requests. Per
 
 [View Roo Sniffer Documentation](./roo-sniffer/README.md)
 
+### KavaChat
+
+A retrofuture 80s themed chat application using OpenRouter API with PKCE OAuth authentication. Fully frontend-only, deployed to GitHub Pages.
+
+**Live Demo:** [https://j-east.github.io/KavaChat/](https://j-east.github.io/KavaChat/)
+
+**Key Features:**
+- PKCE OAuth authentication (no backend required)
+- Dynamic model loading from OpenRouter API
+- Streaming chat responses
+- Neon cyan, salmon, and gold aesthetic
+- Support for GPT-4, Claude, Gemini, DeepSeek, and more
+
+[View KavaChat Repository](https://github.com/j-east/KavaChat)
+
+## Documentation
+
+Check out the [**Wiki**](./docs/wiki/) for comprehensive guides:
+
+- [**Deploying to GitHub Pages**](./docs/wiki/deploying-to-github-pages.md) - Complete guide to deploying Vite + TypeScript apps
+- [**OpenRouter OAuth Integration**](./docs/wiki/openrouter-oauth-integration.md) - PKCE authentication implementation guide
+
 ## License
 
 This project is licensed under the Server Side Public License (SSPL) v1. See the [LICENSE](LICENSE) file for details.
