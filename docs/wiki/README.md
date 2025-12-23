@@ -4,6 +4,14 @@ Developer guides and documentation for projects in this repository.
 
 ## Guides
 
+### Repository Management
+
+- **[Working with Git Submodules](./working-with-submodules.md)** ⭐ **Start Here**
+  - Understanding submodules in jevansTools
+  - Cloning and initialization
+  - Common workflows
+  - Troubleshooting guide
+
 ### Deployment & Infrastructure
 
 - **[Deploying to GitHub Pages](./deploying-to-github-pages.md)**
@@ -23,9 +31,10 @@ Developer guides and documentation for projects in this repository.
 
 ## Projects
 
-### KavaChat
+### KavaChat (Submodule)
 A retrofuture 80s themed chat application using OpenRouter API.
 
+- **Type:** Git Submodule
 - **Live Demo:** https://j-east.github.io/KavaChat/
 - **Repository:** https://github.com/j-east/KavaChat
 - **Tech Stack:** TypeScript, Vite, OpenRouter API
@@ -35,9 +44,22 @@ A retrofuture 80s themed chat application using OpenRouter API.
   - Streaming chat responses
   - Neon retrofuture UI
 
+### depthmap-to-stl-2 (Submodule)
+Convert depth maps to 3D STL models.
+
+- **Type:** Git Submodule
+- **Live Demo:** https://j-east.github.io/depthmap-to-stl-2/
+- **Repository:** https://github.com/j-east/depthmap-to-stl-2
+- **Tech Stack:** TypeScript, Three.js
+- **Features:**
+  - Depth map processing
+  - 3D mesh generation
+  - STL export
+
 ### roo-sniffer
 HTTP/HTTPS proxy monitor for debugging API calls.
 
+- **Type:** Local Directory
 - **Directory:** `/roo-sniffer`
 - **Tech Stack:** TypeScript, Node.js
 

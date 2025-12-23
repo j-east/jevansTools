@@ -2,6 +2,11 @@
 
 A collection of development and debugging tools by John Evans.
 
+**Note:** This repository uses [Git Submodules](./docs/wiki/working-with-submodules.md). Clone with:
+```bash
+git clone --recurse-submodules https://github.com/j-east/jevansTools.git
+```
+
 ## Tools
 
 ### Roo Sniffer
@@ -32,10 +37,25 @@ A retrofuture 80s themed chat application using OpenRouter API with PKCE OAuth a
 
 [View KavaChat Repository](https://github.com/j-east/KavaChat)
 
+### depthmap-to-stl-2
+
+Convert depth maps to 3D STL models in your browser.
+
+**Live Demo:** [https://j-east.github.io/depthmap-to-stl-2/](https://j-east.github.io/depthmap-to-stl-2/)
+
+**Key Features:**
+- Depth map to 3D mesh conversion
+- Real-time 3D preview
+- STL file export
+- Fully browser-based
+
+[View depthmap-to-stl-2 Repository](https://github.com/j-east/depthmap-to-stl-2)
+
 ## Documentation
 
 Check out the [**Wiki**](./docs/wiki/) for comprehensive guides:
 
+- [**Working with Git Submodules**](./docs/wiki/working-with-submodules.md) ⭐ **Start here** - Managing submodules in this repo
 - [**Deploying to GitHub Pages**](./docs/wiki/deploying-to-github-pages.md) - Complete guide to deploying Vite + TypeScript apps
 - [**OpenRouter OAuth Integration**](./docs/wiki/openrouter-oauth-integration.md) - PKCE authentication implementation guide
 

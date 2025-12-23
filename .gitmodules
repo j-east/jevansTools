@@ -1,0 +1,6 @@
+[submodule "KavaChat"]
+	path = KavaChat
+	url = https://github.com/j-east/KavaChat.git
+[submodule "depthmap-to-stl-2"]
+	path = depthmap-to-stl-2
+	url = https://github.com/j-east/depthmap-to-stl-2.git
