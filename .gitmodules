@@ -4,3 +4,12 @@
 [submodule "depthmap-to-stl-2"]
 	path = depthmap-to-stl-2
 	url = https://github.com/j-east/depthmap-to-stl-2.git
+[submodule "video-mover"]
+	path = video-mover
+	url = https://github.com/AshfordBriggs/paladin-utilities.git
+[submodule "kokoroTester"]
+	path = kokoroTester
+	url = https://github.com/j-east/kokoroTester.git
+[submodule "local-softphone"]
+	path = local-softphone
+	url = https://github.com/j-east/local-softphone.git
